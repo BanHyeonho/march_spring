@@ -1,5 +1,11 @@
 # Project exclude paths
+### privacy ###
+application-oauth.properties
 
+### Java ###
+*.class
+build
+
+### etc ###
 .gradle
 .idea
-application-oauth.properties
